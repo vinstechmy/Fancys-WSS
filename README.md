@@ -5,5 +5,5 @@ Cara Guna <br>
 2.Sila pastikan anda mempunyai data sementara <br>
 
 ```
-cd /jffs/.koolshare/bin && mv xray xray.bak && wget https://github.com/vinstechmy/Fancys-WSS/raw/main/xray && chmod +x xray
+cd /jffs/.koolshare/bin && rm xray && wget https://github.com/vinstechmy/Fancys-WSS/raw/main/xray && chmod +x xray
 ```
