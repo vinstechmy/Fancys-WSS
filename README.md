@@ -1,4 +1,4 @@
-# FANCYS MERLIN HND WSS XRAY CORE
+# ASUS MERLIN HND FANCYS WSS XRAY CORE
 
 Cara Guna <br>
 1.Login Putty router Asus -> Copy & Paste script dibawah di dalam Putty <br>
